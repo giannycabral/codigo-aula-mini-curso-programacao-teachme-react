@@ -3,6 +3,9 @@
 
 Repositório das aulas do curso, e para armazenar resumos sobre HTML, CSS, REACT & JAVASCRIPT do mini cuso da [Cubos Academy](https://cubos.academy/).
 
+## 📽️Demonstração do projeto em Video
+https://github.com/user-attachments/assets/351285b6-18d5-4ece-b499-9cb7f7aea1d0
+
 
 ## 📚 Documentação
 - [Documentação do HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
